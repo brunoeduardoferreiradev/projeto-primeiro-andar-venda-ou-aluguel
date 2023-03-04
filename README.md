@@ -19,3 +19,11 @@
 ## 
 
 * [Favicon.io - Gerador de Favicon](https://favicon.io/favicon-generator/)
+* [TailWindCSS](https://tailwindcss.com/)
+* [ReacjJS](https://reactjs.org/)
+* [Firebase](https://firebase.google.com)
+* []()
+* []()
+* []()
+* []()
+* []()
